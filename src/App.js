@@ -165,11 +165,13 @@ const Ul = styled.ul`
   list-style-type: none;
   padding: 0;
   
+  
 `;
 
 const Li = styled.li`
   padding: 1rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.04);
+   cursor: pointer;
   &:hover {
     background-color: #f0f0f0;
   }
