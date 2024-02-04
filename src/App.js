@@ -143,7 +143,7 @@ const Button = styled.button`
   font-size: 16px;
 
   &:hover {
-    background-color: #367c39;
+    background-color: rgb(39, 88, 88);
   }
 
   @media (max-width: 600px) {
