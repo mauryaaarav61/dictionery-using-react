@@ -106,7 +106,8 @@ const Container = styled.div`
 `;
 
 const Title = styled.h1`
-  color: #367c39;
+  color: rgb(37, 145, 145);
+
   font-size: 1.7rem;
   margin-top: -0.1rem;
 
@@ -135,7 +136,7 @@ const Input = styled.input`
 const Button = styled.button`
   margin-left: 0.75rem;
   padding: 11px 20px;
-  background-color: #4caf50;
+  background-color: rgb(37, 145, 145);
   color: #fff;
   border: none;
   cursor: pointer;
@@ -163,6 +164,7 @@ const Error = styled.p`
 const Ul = styled.ul`
   list-style-type: none;
   padding: 0;
+  
 `;
 
 const Li = styled.li`
